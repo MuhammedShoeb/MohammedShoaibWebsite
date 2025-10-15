@@ -137,7 +137,7 @@ const About = () => {
           </div>
         </motion.div>
 
-        {/* === CODERS CLUB CONTAINER === */}
+        {/* === #2Code CONTAINER === */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           animate={isInView ? { opacity: 1, y: 0 } : {}}
@@ -153,7 +153,7 @@ const About = () => {
             >
               {"</>"}
             </motion.div>
-            <h3 className="text-2xl md:text-3xl font-bold gradient-text">Member of Coders Club</h3>
+            <h3 className="text-2xl md:text-3xl font-bold gradient-text">Member of #2Code </h3>
             <p className="text-foreground/70 max-w-2xl mx-auto leading-relaxed">
               Active contributor and tech enthusiast — collaborating with peers to create innovative digital solutions, share knowledge, and promote creative coding culture.
             </p>
@@ -161,7 +161,7 @@ const About = () => {
               asChild
               className="mt-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:opacity-90 text-white px-6 py-2 rounded-full shadow-lg"
             >
-              <a href="https://codersclub.netlify.app/" target="_blank" rel="noopener noreferrer">
+              <a href="https://hash2code.netlify.app/" target="_blank" rel="noopener noreferrer">
                 Visit Coders Club
               </a>
             </Button>
