@@ -37,7 +37,7 @@ const About = () => {
                 <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-purple-500/30 shadow-2xl">
                   <div className="w-full h-full bg-gradient-to-br from-purple-500/20 to-blue-500/20 flex items-center justify-center">
                     <img
-                      src="/public/assets/shoaib.png"
+                      src="/assets/shoaib.png"
                       alt="Mohammed Shoaib"
                       className="object-cover w-full h-full"
                     />
