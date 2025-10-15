@@ -28,11 +28,11 @@ const projects = [
     link: "https://sirmvgsclibrary.netlify.app/",
   },
   {
-    title: "The Codes Club Website",
+    title: "#2Code Website",
     description: "Informative site for Coders Club",
     tech: ["React", "TypeScript", "Tailwind", "HTML"],
     status: "completed",
-    link: "https://codersclub.netlify.app/",
+    link: "https://hash2code.netlify.app/",
   },
 ];
 
